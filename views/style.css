@@ -1,0 +1,14 @@
+.t-center{
+    text-align: center;
+}
+
+.c-stg {
+    color: slategrey;
+}
+
+.m-right{
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+}
